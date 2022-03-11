@@ -14,6 +14,13 @@ I'm not an expert on how it is implemted exactly, but I believe the way it uses 
 [blnder org first commit](https://github.com/blender/blender/commit/b0a1cf2c9ae696b07f7a236bc855a5ab4a493dcb)  
 https://youtu.be/4QMuXQH_5ZA
 
+### Stop-motion-OBJ
+https://github.com/neverhood311/Stop-motion-OBJ/wiki  
+https://blenderartists.org/t/stop-motion-obj-obj-stl-ply-sequence-importer-v2-1-1/670105/136
+
+>Stop Motion OBJ is a tool that lets you import a sequence of mesh files (.obj, .stl, or .ply), play them back in real time, then render them out to an animatio
+
+
 ### OpenTimelineIO
 [github](https://github.com/PixarAnimationStudios/OpenTimelineIO)
 >OpenTimelineIO is an interchange format and API for editorial cut information. OTIO is not a container format for media, rather it contains information about the order and length of cuts and references to external media.
