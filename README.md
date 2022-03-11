@@ -11,6 +11,7 @@ how do we contribute, [addon](https://docs.blender.org/manual/en/latest/advanced
 I'm not an expert on how it is implemted exactly, but I believe the way it uses Blosc is by saving leaves of the VDB grids in blosc-compressed chunks, which are loaded into memory directly and only decompressed on-demand when the data is accessed, then re-compressed when the leaves are processed.
 [1] https://www.openvdb.org/
 
+[blnder org first commit](https://github.com/blender/blender/commit/b0a1cf2c9ae696b07f7a236bc855a5ab4a493dcb)  
 https://youtu.be/4QMuXQH_5ZA
 
 ### OpenTimelineIO
