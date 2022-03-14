@@ -14,6 +14,10 @@ I'm not an expert on how it is implemted exactly, but I believe the way it uses 
 [blnder org first commit](https://github.com/blender/blender/commit/b0a1cf2c9ae696b07f7a236bc855a5ab4a493dcb)  
 https://youtu.be/4QMuXQH_5ZA
 
+[tutorial_pythonVDBconverter](http://www.ytini.com/tutorials/tutorial_pythonVDBconverter.html) [mirror](https://archive.is/wip/ODqBJ)
+http://www.ytini.com/tutorials/tutorial_vdbInstall.html
+
+
 ### Stop-motion-OBJ
 https://github.com/neverhood311/Stop-motion-OBJ/wiki  
 https://blenderartists.org/t/stop-motion-obj-obj-stl-ply-sequence-importer-v2-1-1/670105/136
@@ -33,3 +37,8 @@ https://vfxplatform.com/
 https://github.com/Nelarius/imnodes  
 https://www.youtube.com/watch?v=B-ss8ZYqxnQ  
 https://github.com/ocornut/imgui  
+
+
+
+using particles to scatter blobs on mesh  
+![](https://i.imgur.com/jlpOtaT.png)
